@@ -161,3 +161,4 @@ cython_debug/
 
 *.npy
 *.model
+raw_text
